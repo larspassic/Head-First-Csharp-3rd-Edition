@@ -76,4 +76,4 @@
             Console.WriteLine("{0} says: {1} isn't an amount I'll take", Name, amount);
             return 0;
         }
-    }
+    } 
