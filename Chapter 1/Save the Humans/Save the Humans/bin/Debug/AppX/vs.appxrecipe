@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINDOWS8-VM</Machine>
+    <WindowsUser>Lars</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a41fc77f-63ad-4232-af79-a29c9628827c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EA38A4905FC7884C6F9A74C4D8A4D3FA52C5D6EB94D2568D36749CAB1BA4B4C1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a41fc77f-63ad-4232-af79-a29c9628827c_1.0.0.0_neutral__03zcen6w8twk8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a41fc77f-63ad-4232-af79-a29c9628827c_03zcen6w8twk8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a41fc77f-63ad-4232-af79-a29c9628827c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lars</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-28T07:19:59.980</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe">
+      <PackagePath>Save the Humans.exe</PackagePath>
+      <Modified>2020-07-29T04:09:21.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-29T04:15:45.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-07-28T07:19:22.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-07-29T04:09:20.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.xr.xml">
+      <PackagePath>Save the Humans.xr.xml</PackagePath>
+      <Modified>2020-07-29T04:06:34.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-07-28T07:19:59.771</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

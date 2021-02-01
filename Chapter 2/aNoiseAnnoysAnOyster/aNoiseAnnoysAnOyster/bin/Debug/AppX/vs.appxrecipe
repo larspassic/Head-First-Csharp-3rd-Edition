@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINDOWS8-VM</Machine>
+    <WindowsUser>Lars</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5e06f0d0-5a4e-4551-83ca-15feced30f31</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>AAE85A444B4F153D5F4135ED36AC76E9B2D483C118CC6881EFAFA9CA7ED6C2B5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5e06f0d0-5a4e-4551-83ca-15feced30f31_1.0.0.0_neutral__03zcen6w8twk8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5e06f0d0-5a4e-4551-83ca-15feced30f31_03zcen6w8twk8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5e06f0d0-5a4e-4551-83ca-15feced30f31</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lars</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-10-06T14:38:51.474</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\aNoiseAnnoysAnOyster.exe">
+      <PackagePath>aNoiseAnnoysAnOyster.exe</PackagePath>
+      <Modified>2020-10-06T16:46:41.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-10-06T14:38:51.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-10-06T16:46:41.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\aNoiseAnnoysAnOyster.xr.xml">
+      <PackagePath>aNoiseAnnoysAnOyster.xr.xml</PackagePath>
+      <Modified>2020-10-06T16:46:41.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-10-06T14:38:51.351</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

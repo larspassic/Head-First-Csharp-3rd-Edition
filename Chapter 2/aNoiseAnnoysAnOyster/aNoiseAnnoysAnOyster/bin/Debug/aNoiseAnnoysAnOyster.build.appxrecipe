@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINDOWS8-VM</Machine>
+    <WindowsUser>Lars</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5e06f0d0-5a4e-4551-83ca-15feced30f31</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\aNoiseAnnoysAnOyster.exe">
+      <PackagePath>aNoiseAnnoysAnOyster.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\aNoiseAnnoysAnOyster.xr.xml">
+      <PackagePath>aNoiseAnnoysAnOyster.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\aNoiseAnnoysAnOyster\aNoiseAnnoysAnOyster\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

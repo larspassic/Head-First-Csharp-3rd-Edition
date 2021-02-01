@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINDOWS8-VM</Machine>
+    <WindowsUser>Lars</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4355b05d-447d-4eb0-89e2-709b4bcb4233</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D93FB21AE85BC13727743DC984F7EB1A7BB5EDB12850BC8B26A581458B36B324</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4355b05d-447d-4eb0-89e2-709b4bcb4233_1.0.0.0_neutral__03zcen6w8twk8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4355b05d-447d-4eb0-89e2-709b4bcb4233_03zcen6w8twk8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4355b05d-447d-4eb0-89e2-709b4bcb4233</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lars</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-18T03:01:40.729</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\PracticeUsingIfElse.exe">
+      <PackagePath>PracticeUsingIfElse.exe</PackagePath>
+      <Modified>2020-08-18T03:01:40.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-08-18T03:01:39.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-08-18T03:01:39.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\PracticeUsingIfElse.xr.xml">
+      <PackagePath>PracticeUsingIfElse.xr.xml</PackagePath>
+      <Modified>2020-08-18T03:01:39.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lars\Documents\Visual Studio 2013\Projects\Chapter 2\PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-08-18T03:01:40.422</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

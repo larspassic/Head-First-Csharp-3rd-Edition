@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINDOWS8-VM</Machine>
+    <WindowsUser>Lars</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a2d207ab-e762-42b9-962c-b7ccba8f5c10</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\lars\documents\visual studio 2013\Projects\variables\variables\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>80BD00ABA11E00D457CE8023A530B88FED487FB06EB6B74E0D2C3F2ADBAE4968</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a2d207ab-e762-42b9-962c-b7ccba8f5c10_1.0.0.0_neutral__03zcen6w8twk8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a2d207ab-e762-42b9-962c-b7ccba8f5c10_03zcen6w8twk8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a2d207ab-e762-42b9-962c-b7ccba8f5c10</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lars</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-13T03:11:04.080</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\bin\Debug\variables.exe">
+      <PackagePath>variables.exe</PackagePath>
+      <Modified>2020-08-13T03:11:02.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-08-13T03:11:02.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-08-13T03:11:02.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\bin\Debug\variables.xr.xml">
+      <PackagePath>variables.xr.xml</PackagePath>
+      <Modified>2020-08-13T03:11:02.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lars\documents\visual studio 2013\Projects\variables\variables\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-08-13T03:11:03.740</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
